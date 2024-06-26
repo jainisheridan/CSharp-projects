@@ -1,0 +1,14 @@
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\bin\Debug\net8.0\A1JainiTopiwala.exe
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\bin\Debug\net8.0\A1JainiTopiwala.deps.json
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\bin\Debug\net8.0\A1JainiTopiwala.runtimeconfig.json
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\bin\Debug\net8.0\A1JainiTopiwala.dll
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\bin\Debug\net8.0\A1JainiTopiwala.pdb
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\A1JainiTopiwala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\A1JainiTopiwala.AssemblyInfoInputs.cache
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\A1JainiTopiwala.AssemblyInfo.cs
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\A1JainiTopiwala.csproj.CoreCompileInputs.cache
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\A1JainiTopiwala.dll
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\refint\A1JainiTopiwala.dll
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\A1JainiTopiwala.pdb
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\A1JainiTopiwala.genruntimeconfig.cache
+C:\Users\jaini\source\repos\A1JainiTopiwala\A1JainiTopiwala\obj\Debug\net8.0\ref\A1JainiTopiwala.dll
